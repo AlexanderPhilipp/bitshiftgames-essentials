@@ -24,6 +24,8 @@ namespace BitshiftGames.Essentials
                 singleton = this;
             else
                 Destroy(this.gameObject);
+
+            ReloadUserInterface();
         }
 
         #region AccessFunctions

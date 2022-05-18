@@ -3,4 +3,4 @@ Settings Management
 InAppPurchasing
     -Unity Purchasing
 Advertising
-    -Unity Advertising
+    -Unity Advertisements
